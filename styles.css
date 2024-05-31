@@ -30,13 +30,13 @@ div{
 .about{
     width: 100%;
     height: 60vh;
-    background-color: lightgray;
     text-align: center;
     border-bottom: 1px solid black;
 }
 .resources{
     width: 100%;
     height: 100vh;
+    background-color: lightgray;
     text-align: center;
 }
 .column{
